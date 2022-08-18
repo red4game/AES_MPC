@@ -1,0 +1,11 @@
+Using security parameter 40
+1bc9f3653e6c5f1daaa52ad034ff6713
+0x10x1000x1000 0x13
+trouvé à l'index 19
+The following timing is inclusive preprocessing.
+Time = 0.035286 seconds 
+Data sent = 6.13514 MB in ~1108 rounds (party 0)
+Global data sent = 12.1044 MB (all parties)
+This program might benefit from some protocol options.
+Consider adding the following at the beginning of 'bacas2.mpc':
+	program.use_edabit(True)

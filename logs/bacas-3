@@ -1,0 +1,5 @@
+Using security parameter 40
+Trying to run 64-bit computation
+terminate called after throwing an instance of 'std::runtime_error'
+  what():  Cannot access Player-Data/P3.pem. Have you set up SSL?
+You can use `Scripts/setup-ssl.sh <nparties>`.

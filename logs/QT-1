@@ -1,0 +1,9 @@
+Using security parameter 40
+Significant amount of unused triples of SPDZ gf2n_long. For more accurate benchmarks, consider reducing the batch size with -b.
+The following timing is inclusive preprocessing.
+Time = 0.154978 seconds 
+Data sent = 22.6025 MB in ~208 rounds (party 1)
+Global data sent = 45.2051 MB (all parties)
+This program might benefit from some protocol options.
+Consider adding the following at the beginning of 'QT.mpc':
+	program.use_edabit(True)

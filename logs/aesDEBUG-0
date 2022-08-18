@@ -1,0 +1,10 @@
+Using security parameter 40
+longueur s : 8
+longueur T : 256
+longueur sp : 256
+my cell at index 0x2 : 0x23
+Significant amount of unused bits of SPDZ gf2n_long. For more accurate benchmarks, consider reducing the batch size with -b.
+The following timing is inclusive preprocessing.
+Time = 0.108557 seconds 
+Data sent = 6.21671 MB in ~326 rounds (party 0)
+Global data sent = 12.1037 MB (all parties)

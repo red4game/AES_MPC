@@ -1,0 +1,6 @@
+Using security parameter 40
+0xb
+The following timing is inclusive preprocessing.
+Time = 0.000632448 seconds 
+Data sent = 0.025076 MB in ~21 rounds (party 0)
+Global data sent = 0.050152 MB (all parties)

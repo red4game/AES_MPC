@@ -1,0 +1,23 @@
+Using security parameter 40
+0x5a
+0x9a
+0x67
+0xce
+0x65
+0xaf
+0xe1
+0xa3
+0xd3
+0xff
+0x63
+0xd
+0xb1
+0x9
+0x9d
+0x21
+Significant amount of unused triples of SPDZ gf2n_long. For more accurate benchmarks, consider reducing the batch size with -b.
+Significant amount of unused bits of SPDZ gf2n_long. For more accurate benchmarks, consider reducing the batch size with -b.
+The following timing is inclusive preprocessing.
+Time = 0.284168 seconds 
+Data sent = 45.2418 MB in ~187 rounds (party 0)
+Global data sent = 90.4837 MB (all parties)

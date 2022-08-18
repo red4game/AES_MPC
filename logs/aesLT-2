@@ -1,0 +1,6 @@
+Using security parameter 40
+terminate called after throwing an instance of 'Invalid_Instruction'
+  what():  Processor-Error : Code not defined for instruction 0x101
+This virtual machine executes binary circuits only.
+Use 'compile.py -B'.
+
