@@ -1,6 +1,8 @@
 # AES_MPC
 This repository is a fork of MP-SPDZ with the program in programs/Source/aesLT and the inputs of players in Player-data/
 
+If you want further informations in this repository except the program aesLT please see : https://github.com/data61/MP-SPDZ
+
 ## Installation
 On Linux, this requires a working toolchain and [all
 requirements](#requirements). On Ubuntu, the following might suffice:
